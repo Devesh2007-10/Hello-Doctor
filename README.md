@@ -58,5 +58,5 @@ and to this prescription, doc's nurse has a acces and she can add the details of
 and here we show a bell symbol and asks if you want to create a alaram.
 
 # NOTE 
-home page should have a tool bar of 3 lines at right top
+home page will have a tool bar of 3 lines at right top
 there you can see your profile and change your language (but prescription language does not change)
