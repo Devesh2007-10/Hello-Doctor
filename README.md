@@ -57,3 +57,6 @@ and beside each med, there is small i in circle symbol, and if you click it, you
 and to this prescription, doc's nurse has a acces and she can add the details of when to take.
 and here we show a bell symbol and asks if you want to create a alaram.
 
+# NOTE 
+home page should have a tool bar of 3 lines at right top
+there you can see your profile and change your language (but prescription language does not change)
